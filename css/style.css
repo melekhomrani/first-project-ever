@@ -1,0 +1,55 @@
+
+body{
+		margin: 0;
+		padding: 0;
+		background: url(../img/dark-sun.jpg) no-repeat ;
+		background-size: cover;
+		margin
+}
+
+.info{
+		width: 450px;
+		background: rgba(37, 12, 150, 0.4);
+		padding: 40px;
+		text-align: center;
+		margin: auto;
+		margin-top: 5%;
+		margin-bottom: 5%;
+		color: white;
+}
+
+.image{
+		width: 300px;}
+
+.info h1{
+		font-size: 50px;
+		letter-spacing: 3px;
+		font-weight: 100px;
+}
+
+.info h3{
+		font-size: 22px;
+		letter-spacing: 2px;
+		font-weight: 100;
+}
+
+.info p{
+		text-align: justify;
+}
+
+
+img{
+		width: 30px;
+}
+
+.dots {
+		align-items: center;
+		display: flex;
+		list-style-type: none;
+		justify-content: space-around ;
+}
+
+.dots__item {
+margin: auto;
+border-radius: 50%;
+}
